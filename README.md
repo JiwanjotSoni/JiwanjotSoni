@@ -1,4 +1,4 @@
-<a href="https://pythondiscord.com"><img width="240" align="right" src="https://media-exp1.licdn.com/dms/image/C5603AQG0rbrgG6JQmQ/profile-displayphoto-shrink_200_200/0/1526625022848?e=1649289600&v=beta&t=MoN5FGCd8zKcmYR2qLAz_rAd5axI4W4viFAdgh9Oi20"></a>
+<a href="https://google.com"><img width="240" align="right" src="https://media-exp1.licdn.com/dms/image/C5603AQG0rbrgG6JQmQ/profile-displayphoto-shrink_200_200/0/1526625022848?e=1649289600&v=beta&t=MoN5FGCd8zKcmYR2qLAz_rAd5axI4W4viFAdgh9Oi20"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there%2C+I'm+Jiwanjot+Soni;Hi+there%2C+I'm+a+software+engineer;Hi+there%2C+I'm+a+content+creator)](https://google.com)
 
