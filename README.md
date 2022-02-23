@@ -6,7 +6,7 @@ I make weird stuff. Sometimes people like the stuff I make.🐘
 
 
 - Open source is something I'm interested in.
-- Artificial intelligence and Cyper Security is an area I'm focusing on right now.
+- Artificial intelligence and Cyber Security is an area I'm focusing on right now.
 
 [![Twitter](https://img.shields.io/badge/Twitter-%23229FEC.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jiwanjot_soni)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
