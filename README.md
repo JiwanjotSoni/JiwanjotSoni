@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there%2C+I'm+Jiwanjot+Soni;Hi+there%2C+I'm+a+software+engineer;Hi+there%2C+I'm+a+content+creator)](#)
 
-I make weird stuff. Sometimes people like the stuff I make.🐘
+I make weird stuff, and sometimes people like the stuff I make.🐘
 
 
 - Open source is something I'm interested in.
