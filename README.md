@@ -1,6 +1,6 @@
 <a href="#"><img width="240" align="right" src="https://github.com/JiwanjotSoni/JiwanjotSoni/blob/main/Image.gif"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there%2C+I'm+Jiwanjot+Soni;Hi+there%2C+I'm+a+software+engineer;Hi+there%2C+I'm+a+content+creator)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there%2C+I'm+Jiwanjot+Soni;Hi+there%2C+I'm+a+software+engineer;Hi+there%2C+I'm+a+content+creator)](https://jiwanjot.com/)
 
 I make weird stuff, and sometimes people like the stuff I make.🐘
 
